@@ -1,0 +1,28 @@
+---
+layout: post
+title: Language Features I Love
+permalink: languagefeaturesilove.html
+---
+
+_These are in no particular order_
+
+__1. Variable Interpolation:__ This is interpolating (embedding) a variable's string representation into a string literal.  Here is a (purposefully) bad way of doing the same thing in Java.
+
+     String name = "Bob";
+     String s = "Hello there, " + name + ", I eat peanuts.";
+     System.out.println(s); // prints - Hello there, Bob, I eat peanuts.
+
+I absolutely hate doing this because I'm lazy and there's no reason why I should be closing quotes, concatenating, putting in a string, etc.  Java can't interpolate my variable ```name``` into the variable ```s```, which just sucks.  What I think are great ways of doing this are
+
+_The Ruby way:_
+     count = 3
+     item = "ball"
+     puts "#{count} #{item}s" # prints: 3 balls
+
+_The Groovy way:_
+     foxtype = 'quick'
+     foxcolor = ['b', 'r', 'o', 'w', 'n']
+     println "The $foxtype ${foxcolor.join} fox" // prints: The quick brown fox
+
+There, now wasn't that simple?  
+
