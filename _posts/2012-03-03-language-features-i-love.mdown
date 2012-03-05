@@ -6,13 +6,13 @@ permalink: languagefeaturesilove.html
 
 _These are in no particular order_
 
-__1. Variable Interpolation:__ This is interpolating (embedding) a variable's string representation into a string literal.  Here is a (purposefully) bad way of doing the same thing in Java.
+__1. Variable Interpolation:__ This is interpolating (embedding) a variable's string representation into a string literal.  Here is the way of doing this in Java.
 
      String name = "Bob";
      String s = "Hello there, " + name + ", I eat peanuts.";
      System.out.println(s); // prints - Hello there, Bob, I eat peanuts.
 
-I absolutely hate doing this because I'm lazy and there's no reason why I should be closing quotes, concatenating, putting in a string, etc.  Java can't interpolate my variable ```name``` into the variable ```s```, which just sucks.  What I think are great ways of doing this are
+I come from a Java background, and I absolutely hate doing this because I'm lazy and there's no reason why I should be closing quotes, concatenating, putting in a string, etc.  It's simply too much to type, and I'd much prefer a simpler way of doing this with fewer keystrokes.  Java can't interpolate my variable ```name``` into the variable ```s```, which just sucks.  What I think are great ways of doing this are
 
 _The Ruby way:_
 
@@ -26,5 +26,17 @@ _The Groovy way:_
      foxcolor = ['b', 'r', 'o', 'w', 'n']
      println "The $foxtype ${foxcolor.join} fox" // prints: The quick brown fox
 
-There, now wasn't that simple?  
+There, now wasn't that simple?  Not only is it shorter, but to me its easier to read and simpler looking.
+
+__2. Statement Modifiers:__ Executing a statement, only on some condition, and without using an if on a separate line.  I simply like this because it saves me a line of code, and often an indentation while still looking natural.  My example is from Ruby:
+
+     puts "positive" if i > 0
+     puts "nonzero" unless i == 0
+
+__3. Ternary Operators:__ An example from Java!  I miss this one since I've switched to Python (it has something very similar, but not quite as fun):
+
+     boolean isHappy = true;
+     String mood = (isHappy == true) ? "I'm Happy!" : "I'm Sad!"; 
+
+This is a way of evaluating an if inline and assigning some value, and is better than a whole if-else statement because it saves some space.  It looked ugly to me at first but I've come to enjoy the compactness.  
 
