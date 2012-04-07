@@ -33,7 +33,7 @@ __2. Statement Modifiers:__ Executing a statement, only on some condition, and w
      puts "positive" if i > 0
      puts "nonzero" unless i == 0
 
-__3. Ternary Operators:__ An example from Java!  I miss this one since I've switched to Python (it has something very similar, but not quite as fun):
+__3. Ternary Operators:__ An example from Java!  I miss this one since I've switched to Python (it has this too, but not in the exact syntax that I enjoy):
 
      boolean isHappy = true;
      String mood = (isHappy == true) ? "I'm Happy!" : "I'm Sad!"; 

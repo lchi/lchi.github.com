@@ -1,0 +1,11 @@
+---
+layout: post
+title: Funny Quotes on Langauges
+permalink: funnyquotesonlanguages.html
+---
+
+_"Java was like having a rich lawyer as a brother. He was fun when he was younger, but now he’s a black hole that sucks away all the joy in a 100-mile radius."
+-Bruce A. Tate in Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages_
+
+_"Don't learn Lisp.  Lisp was popular before I was a student."
+-My Dad_
