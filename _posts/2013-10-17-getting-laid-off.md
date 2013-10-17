@@ -5,11 +5,11 @@ title: Getting laid off
 
 In late July of this year, I was laid off from OkCupid Labs.  The company was kaput.  I remember the day vividly, despite having one of those drink-like-crazy-because-I'm-getting-fired-tomorrow hangovers.  It was a Friday, and it happened like this:
 
-10am     - An unexpected FreshDirect delivery of about 4 cases of beer. (hmm?)
-10:30am  - All company meeting (except for our group) begins. (oh...)
-11:30am  - Two Boots pizza delivery (crap..)
-12:00pm  - All company meeting ends, our group is called to meet with the CEO (yep..)
-12:01pm  - Laid off, GG
+10am     - An unexpected FreshDirect delivery of about 4 cases of beer. (hmm?)  
+10:30am  - All company meeting (except for our group) begins. (oh...)  
+11:30am  - Two Boots pizza delivery (crap..)  
+12:00pm  - All company meeting ends, our group is called to meet with the CEO (yep..)  
+12:01pm  - Laid off, GG  
 
 For the first time in my life, I was being forced to leave an organization that I wanted nothing more than to stay and be a part of.  My job at OkCupid Labs became a huge source of pride for me over the past year - I'd been given the freedom and responsibility to work as I wanted, a strong voice in product decisions and the best team that I'd ever worked with.  When referencing the people that I worked with to others, I used the word 'friend' rather than 'coworker' because it was simply more accurate.  I loved that job, and I never would have left.
 
