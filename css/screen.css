@@ -280,3 +280,11 @@ span.date-text {
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
+
+span.top-em {
+  margin-top: 1em;
+}
+
+span.bottom-em {
+  margin-bottom: 1em;
+}
