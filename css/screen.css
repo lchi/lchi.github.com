@@ -263,10 +263,16 @@ sup {
     overflow: hidden;
 }
 
-span.category-t {
-  color: #cc8f8f;
+span.category {
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+span.category-t {
+  color: #cc8f8f;
+}
+span.category-r {
+  color: #8fc7cc;
 }
 
 span.date-text {
