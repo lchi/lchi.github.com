@@ -3,6 +3,12 @@ layout: post
 category: R
 title: Browned Butter Chocolate Chip Cookies
 ---
+<div class="rounded-img-wrapper">
+  <div class="rounded-img">
+    <img src="images/cookies.png" />
+  </div>
+</div>
+
 I first tasted these cookies when [Matt Jacobs](http://capndesign.com/) brought a freshly baked batch to OkCupid's offices.  The cookies are incredibly rich and have a great nutty flavor from the browned butter that's unlike any other cookies I've ever had.  Though I was unable to find the original recipe online, I found [this adaptation](http://www.browneyedbaker.com/2012/10/16/cooks-illustrated-perfect-chocolate-chip-cookies/) that I've copied below:
 
 <span class="bottom-em">
