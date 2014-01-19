@@ -1,4 +1,7 @@
 markdown: redcarpet
+cagtegories:
+  - Technical
+  - Recipes
 redcarpet:
   extensions: [smart]
 pygments: true

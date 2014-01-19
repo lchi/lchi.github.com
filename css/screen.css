@@ -82,24 +82,6 @@ ul.posts {
   font-size: 1.4em;
 }
 
-.about {
-  text-align: left;
-  width: 12em;
-  float: left;
-  margin-left: 1em;
-  margin-right: 5em;
-  margin-top: 1em;
-  line-height: 1.3em;
-}
-
-.about a:visited {
-  color: #00a;
-}
-
-.about a:hover {
-  color: black;
-}
-
 .nav {
   margin-bottom: 1em;
 }
@@ -116,10 +98,6 @@ ul.posts {
   color: #00a;
 }
 
-.about ul {
-  list-style: none;
-}
-
 .date {
   font-size: 0.8em;
   color: #666;
@@ -129,10 +107,9 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: left;
-  width: 40em;
-  margin: 1em auto 2em auto;
+  width: 640px;
+  margin: 0 auto;
   line-height: 1.5em;
-  float: left;
 }
 
 .title {
@@ -270,4 +247,24 @@ acronym {
 
 sup {
   line-height: 0;
+}
+
+/* Image wrappers */
+
+.rounded-img-wrapper {
+    width: 640px;
+    overflow: hidden;
+    margin: 20px 0px;
+}
+
+.rounded-img {
+    background: white;
+    padding: 0;
+     -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -khtml-border-radius: 12px;
+    border-radius: 12px;
+    width: 640px;
+    height: 480px;
+    overflow: hidden;
 }
