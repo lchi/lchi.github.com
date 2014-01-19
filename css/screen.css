@@ -66,12 +66,6 @@ ul.posts {
     line-height: 1.75em;
   }
 
-  ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
-  }
-
 /*****************************************************************************/
 /*
 /* Site
@@ -267,4 +261,16 @@ sup {
     width: 640px;
     height: 480px;
     overflow: hidden;
+}
+
+span.category-t {
+  color: #cc8f8f;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+span.date-text {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
 }

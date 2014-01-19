@@ -1,5 +1,6 @@
 ---
 layout: post
+category: T
 title: Getting laid off
 ---
 

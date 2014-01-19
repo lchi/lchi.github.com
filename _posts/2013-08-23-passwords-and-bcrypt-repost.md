@@ -1,5 +1,6 @@
 ---
 layout: post
+category: T
 title: Passwords and bcrypt (repost)
 ---
 
